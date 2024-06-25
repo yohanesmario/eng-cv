@@ -1,0 +1,88 @@
+*.out.html
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS - icon files
+Icon
+._*
+
+# macOS - Thumbnails
+._.DS_Store
+.DS_Store?
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# macOS - Directories
+.metadata_never_index
+.noindex
+
+# macOS - Specific files
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# macOS - Others
+.fseventsd
+.hotfiles.btree
+.quarantine
+.VolumeIcon.icns
+.TemporaryItems
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows - Directories
+System Volume Information/
+Recovery/
+Recycler/
+
+# Windows - hibernation file
+hiberfil.sys
+
+# Windows - page file
+pagefile.sys
+
+# Windows - custom
+$NtUninstallKB*
+
+# Windows - Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Linux
+*~
+.*.swp
+.swp
+.swo
+.swn
+.directory
+
+# Linux - Trash directory
+.Trash-*
+
+# KDE
+.kde/
+.kde4/
+
+# Temporary files
+tmp/
+temp/
+
+# General system files
+lost+found/
