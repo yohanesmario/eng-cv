@@ -1,0 +1,65 @@
+full-name: John Doe
+
+contact-info:
+  - label: Email
+    icon: envelope
+    value: address@example.com
+    uri: mailto:address@example.com
+  - label: LinkedIn
+    icon: linkedin
+    value: linkedin.com/in/example
+    uri: https://linkedin.com/in/example
+  - label: GitHub
+    icon: github
+    value: github.com/example
+    uri: https://github.com/example
+  - label: Phone
+    icon: telephone
+    value: +62-811-1234-567
+    uri: https://wa.me/628111234567
+
+summary: >
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut elementum dolor.
+  In molestie, ante vitae iaculis cursus, tortor velit fermentum dolor, sed blandit purus ex quis odio.
+  Integer consectetur nibh ligula, vitae rutrum nisi venenatis ut. Ut vel placerat dolor.
+  Nam efficitur nisl urna, vitae tempor nunc rhoncus ac. Proin vel fermentum nisi.
+  Curabitur vel lacus imperdiet, sodales arcu et, facilisis odio.
+  Curabitur nisl enim, congue id tellus eu, molestie rutrum arcu. Sed viverra interdum blandit.
+  Phasellus laoreet condimentum orci, nec interdum ipsum fermentum nec. Sed tempus erat non tellus blandit faucibus.
+  Nunc congue vehicula nulla, vel faucibus nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+  Fusce euismod lectus at magna pretium, luctus vulputate quam laoreet. Curabitur vel lectus ut augue pellentesque feugiat.
+  Sed id massa viverra elit lobortis aliquet quis et odio.
+
+experiences:
+  - title: Software Engineer II
+    company: XYZ Corp.
+    location: Jakarta, Indonesia
+    start: January 2023
+    current: true
+    description:
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut elementum dolor.
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut elementum dolor.
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut elementum dolor.
+    tech-stack:
+      - Golang
+      - Java
+
+  - title: Software Engineer II
+    company: ABC Corp.
+    location: Jakarta, Indonesia
+    start: September 2021
+    end: January 2023
+    description:
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut elementum dolor.
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut elementum dolor.
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut elementum dolor.
+    tech-stack:
+      - Java
+      - Python
+
+educations:
+  - degree: Bachelor's Degree in Computer Science
+    institution: XYZ University
+    location: Bandung, Indonesia
+    start: 2019
+    end: 2024
